@@ -1,10 +1,6 @@
-# Final Project
+# My Movie Database Web App
 
 Rosalba Monterrosas
-
-Z23361820
-
-COT 4930 - Full Stack Web Development
 
 # Table of Contents
 
